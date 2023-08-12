@@ -1,5 +1,3 @@
-~$ ex book 3.txt
-~*
 env/
 APC key to idioms.docx
 BD 11-21 and idioms.docx
@@ -13,3 +11,7 @@ output_analysis.html
 output_idioms.html
 .gitignore
 BD ex book 3.*
+analysis-of-sbs-pāli-english-recitations.txt
+recitation_analysis.txt
+.gitignore
+recitation_analysis.docx
