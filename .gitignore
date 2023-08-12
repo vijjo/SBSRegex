@@ -1,7 +1,8 @@
 env/
 APC key to idioms.docx
 BD 11-21 and idioms.docx
-idioms.*
+idioms.html
+idioms.xlsx
 test_soup.py
 analysis.xlsx
 analysis.html
