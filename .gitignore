@@ -5,12 +5,12 @@ APC key to idioms.docx
 BD 11-21 and idioms.docx
 idioms.html
 idioms.xlsx
-output_idioms.docx
 test_soup.py
 analysis.xlsx
 analysis.html
-analysis-of-sbs-pāli-english-recitations.docx
+analysis-of-sbs-pāli-english-recitations.*
+output_idioms.docx
 output_analysis.html
-.gitignore
 output_idioms.html
+.gitignore
 BD ex book 3.*
