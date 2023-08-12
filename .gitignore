@@ -1,2 +1,15 @@
 ~$ ex book 3.txt
 ~*
+env/
+APC key to idioms.docx
+BD 11-21 and idioms.docx
+idioms.html
+idioms.xlsx
+output_idioms.docx
+test_soup.py
+analysis.xlsx
+analysis.html
+analysis-of-sbs-pāli-english-recitations.docx
+output_analysis.html
+.gitignore
+output_idioms.html
